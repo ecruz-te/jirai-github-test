@@ -1,3 +1,3 @@
 # jirai-github-test
 
-edited
+This is a test repository for JirAI, used strictly for development.
